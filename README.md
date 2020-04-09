@@ -1,4 +1,4 @@
-# ConsoleEmailApplication_java
+# Console Email Application using java
 Hi guys here we are gona create an java console EmailApllication with the following critiria
 1.The email should be in the format "firstname.lastname@department.company.com" *should be  in lowercase*.
 2.It should also provide info like (Department name,password,mailcapacity).
